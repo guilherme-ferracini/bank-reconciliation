@@ -1,0 +1,15 @@
+entry_id,date,description,document,amount
+L01,2026-10-01,Receipt - Alfa Comercio,NF 4512,15300.00
+L02,2026-09-30,Supplier - Papelaria Central,BOL 99812,-842.90
+L03,2026-10-03,Bank fees,,-89.90
+L04,2026-10-03,Receipt - Beta Servicos,NF 4519,8750.00
+L05,2026-10-06,DAS September,,-6268.61
+L06,2026-10-07,Freelancer - Joao Pereira,RPA 118,-2500.00
+L07,2026-10-08,Receipt - Gama Industria,NF 4521,4200.00
+L08,2026-10-09,Receipt - Gama Industria,NF 4522,4200.00
+L09,2026-10-10,Payroll September,,-48930.45
+L10,2026-10-14,Electricity - Copel,,-1287.33
+L11,2026-10-15,Receipt - Delta Engenharia,NF 4530,12500.00
+L12,2026-10-20,FGTS September,,-3914.44
+L13,2026-10-25,Rent October,,-7500.00
+L14,2026-10-29,Receipt - Zeta Comercio,NF 4541,2980.00

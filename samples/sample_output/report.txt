@@ -1,0 +1,24 @@
+Matched 12 of 15 bank lines
+
+  B01 <-> L01  exact   conf 1.00  R$   15300.00  document NF 4512
+  B02 <-> L02  window  conf 0.85  R$    -842.90  2 day(s) apart
+  B03 <-> L03  window  conf 0.95  R$     -89.90  0 day(s) apart
+  B04 <-> L04  window  conf 0.85  R$    8750.00  2 day(s) apart
+  B05 <-> L05  window  conf 0.95  R$   -6268.61  0 day(s) apart
+  B06 <-> L06  window  conf 0.95  R$   -2500.00  0 day(s) apart
+  B09 <-> L09  window  conf 0.95  R$  -48930.45  0 day(s) apart
+  B10 <-> L10  window  conf 0.95  R$   -1287.33  0 day(s) apart
+  B12 <-> L12  window  conf 0.95  R$   -3914.44  0 day(s) apart
+  B14 <-> L13  window  conf 0.95  R$   -7500.00  0 day(s) apart
+  B07 <-> L07  judged  conf 0.80  R$    4200.00  chosen among 2 candidate(s)
+  B08 <-> L08  judged  conf 0.80  R$    4200.00  chosen among 1 candidate(s)
+
+Exceptions for review
+  BANK   B11 2026-10-15 PIX RECEBIDO DELTA ENGENHARIA R$ 12000.00 | possible match with different amount: L11 Receipt - Delta Engenharia R$ 12500.00
+  BANK   B13 2026-10-21 RENDIMENTO APLICACAO AUTOMATICA R$ 312.18
+  BANK   B15 2026-10-28 PIX RECEBIDO EPSILON LTDA R$ 3150.00
+  LEDGER L11 2026-10-15 Receipt - Delta Engenharia R$ 12500.00
+  LEDGER L14 2026-10-29 Receipt - Zeta Comercio R$ 2980.00
+
+Net difference still open: R$ -17.82
+Files written to samples/sample_output

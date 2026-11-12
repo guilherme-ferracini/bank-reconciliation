@@ -1,0 +1,13 @@
+bank_id,ledger_id,method,confidence,note
+B01,L01,exact,1.0,document NF 4512
+B02,L02,window,0.85,2 day(s) apart
+B03,L03,window,0.95,0 day(s) apart
+B04,L04,window,0.85,2 day(s) apart
+B05,L05,window,0.95,0 day(s) apart
+B06,L06,window,0.95,0 day(s) apart
+B09,L09,window,0.95,0 day(s) apart
+B10,L10,window,0.95,0 day(s) apart
+B12,L12,window,0.95,0 day(s) apart
+B14,L13,window,0.95,0 day(s) apart
+B07,L07,judged,0.8,chosen among 2 candidate(s)
+B08,L08,judged,0.8,chosen among 1 candidate(s)
